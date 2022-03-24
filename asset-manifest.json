@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/second-app/static/css/main.2f5a2a0d.css",
+    "main.js": "/second-app/static/js/main.d4c48462.js",
+    "static/media/casual-life-3d-24.png": "/second-app/static/media/casual-life-3d-24.46f608dff2bbdb1c8c0d.png",
+    "index.html": "/second-app/index.html",
+    "main.2f5a2a0d.css.map": "/second-app/static/css/main.2f5a2a0d.css.map",
+    "main.d4c48462.js.map": "/second-app/static/js/main.d4c48462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5a2a0d.css",
+    "static/js/main.d4c48462.js"
+  ]
+}
