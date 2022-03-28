@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/E-Commerce-Website/static/css/main.2f5a2a0d.css",
-    "main.js": "/E-Commerce-Website/static/js/main.e8bbfb4c.js",
+    "main.js": "/E-Commerce-Website/static/js/main.9d494c8b.js",
     "static/media/casual-life-3d-24.png": "/E-Commerce-Website/static/media/casual-life-3d-24.46f608dff2bbdb1c8c0d.png",
     "index.html": "/E-Commerce-Website/index.html",
     "main.2f5a2a0d.css.map": "/E-Commerce-Website/static/css/main.2f5a2a0d.css.map",
-    "main.e8bbfb4c.js.map": "/E-Commerce-Website/static/js/main.e8bbfb4c.js.map"
+    "main.9d494c8b.js.map": "/E-Commerce-Website/static/js/main.9d494c8b.js.map"
   },
   "entrypoints": [
     "static/css/main.2f5a2a0d.css",
-    "static/js/main.e8bbfb4c.js"
+    "static/js/main.9d494c8b.js"
   ]
 }
