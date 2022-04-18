@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/E-Commerce-Website/static/css/main.2f5a2a0d.css",
-    "main.js": "/E-Commerce-Website/static/js/main.a64acd01.js",
-    "static/media/casual-life-3d-24.png": "/E-Commerce-Website/static/media/casual-life-3d-24.46f608dff2bbdb1c8c0d.png",
-    "index.html": "/E-Commerce-Website/index.html",
-    "main.2f5a2a0d.css.map": "/E-Commerce-Website/static/css/main.2f5a2a0d.css.map",
-    "main.a64acd01.js.map": "/E-Commerce-Website/static/js/main.a64acd01.js.map"
+    "main.css": "/E-Commerce-Website//static/css/main.f913e99d.css",
+    "main.js": "/E-Commerce-Website//static/js/main.5532ddf9.js",
+    "static/media/image1.png": "/E-Commerce-Website//static/media/image1.a8f6e1d2e92c3cc49c21.png",
+    "static/media/image4.png": "/E-Commerce-Website//static/media/image4.fc93634e1084bc8d873f.png",
+    "static/media/image5.png": "/E-Commerce-Website//static/media/image5.c9270e944fade8eb5c3d.png",
+    "static/media/image3.png": "/E-Commerce-Website//static/media/image3.ac6238b57d5161bb602a.png",
+    "static/media/image2.png": "/E-Commerce-Website//static/media/image2.b644cb0433bd82e9e874.png",
+    "static/media/image6.png": "/E-Commerce-Website//static/media/image6.e0929be14de86d90bf99.png",
+    "static/media/glossy-e-commerce.png": "/E-Commerce-Website//static/media/glossy-e-commerce.280837a083c702600489.png",
+    "static/media/istockphoto-1096460950-612x612.jpg": "/E-Commerce-Website//static/media/istockphoto-1096460950-612x612.ca3f9a613059bdb6a3ea.jpg",
+    "static/media/image7.png": "/E-Commerce-Website//static/media/image7.172c819abc256a39b41f.png",
+    "index.html": "/E-Commerce-Website//index.html",
+    "main.f913e99d.css.map": "/E-Commerce-Website//static/css/main.f913e99d.css.map",
+    "main.5532ddf9.js.map": "/E-Commerce-Website//static/js/main.5532ddf9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f5a2a0d.css",
-    "static/js/main.a64acd01.js"
+    "static/css/main.f913e99d.css",
+    "static/js/main.5532ddf9.js"
   ]
 }
