@@ -1,0 +1,15 @@
+.details .image {
+  width: 220px;
+}
+.details .detail {
+  font-size: 20px;
+  font-weight: normal;
+  color: #002f94;
+}
+.container {
+  text-shadow: 0px 0px 1px #fff;
+  min-height: calc(100vh - 56px);
+}
+.container button {
+  text-shadow: 0px 0px 1px #fff;
+}

@@ -1,0 +1,12 @@
+.active,
+.active:hover {
+  background-color: #f567f9;
+  color: white;
+}
+nav a,
+nav a:hover {
+  color: #002f94;
+}
+nav {
+  background-color: rgb(255 255 255 / 0.2);
+}

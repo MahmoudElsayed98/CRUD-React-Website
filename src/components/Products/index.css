@@ -1,0 +1,18 @@
+/* .container .row {
+  text-shadow: 0px 0px 2px #fff;
+} */
+@media (max-width: 767px) {
+  .product {
+    max-width: 24%;
+  }
+}
+@media (min-width: 768px) {
+  .product {
+    max-width: 22%;
+  }
+}
+@media (min-width: 1199px) {
+  .product {
+    max-width: 15%;
+  }
+}
