@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce-Website//static/css/main.4d5f2cbb.css",
-    "main.js": "/E-Commerce-Website//static/js/main.849e3acb.js",
+    "main.js": "/E-Commerce-Website//static/js/main.08261277.js",
     "static/media/pexels-photo-5186869.png": "/E-Commerce-Website//static/media/pexels-photo-5186869.980e71d236611234fc6a.png",
     "static/media/pexels-fiona-art-4968844.jpg": "/E-Commerce-Website//static/media/pexels-fiona-art-4968844.1ee16164d1404a560876.jpg",
     "static/media/199-1997004_laptops-png-transparent-png.png": "/E-Commerce-Website//static/media/199-1997004_laptops-png-transparent-png.a8f6e1d2e92c3cc49c21.png",
@@ -15,6 +15,7 @@
     "static/media/image6.png": "/E-Commerce-Website//static/media/image6.e0929be14de86d90bf99.png",
     "static/media/pexels-photo-5186869.jpeg": "/E-Commerce-Website//static/media/pexels-photo-5186869.e1c74dbf7e177a4664d0.jpeg",
     "static/media/pexels-photo-3183132.jpeg": "/E-Commerce-Website//static/media/pexels-photo-3183132.3b4ec2824290f96de8ee.jpeg",
+    "static/media/BENZEMA_550x650.png": "/E-Commerce-Website//static/media/BENZEMA_550x650.bc56137a40119f0fbc15.png",
     "static/media/916L3DuSYgL._AC_SL1500_.jpg": "/E-Commerce-Website//static/media/916L3DuSYgL._AC_SL1500_.b26e32f146894a1ca019.jpg",
     "static/media/astronomy-1867616_960_720.jpg": "/E-Commerce-Website//static/media/astronomy-1867616_960_720.bbf04c664fd072313a6c.jpg",
     "static/media/mandalas-1084082_960_720.webp": "/E-Commerce-Website//static/media/mandalas-1084082_960_720.3c2e9c5640fe6d40d9fd.webp",
@@ -35,10 +36,10 @@
     "static/media/image7.png": "/E-Commerce-Website//static/media/image7.172c819abc256a39b41f.png",
     "index.html": "/E-Commerce-Website//index.html",
     "main.4d5f2cbb.css.map": "/E-Commerce-Website//static/css/main.4d5f2cbb.css.map",
-    "main.849e3acb.js.map": "/E-Commerce-Website//static/js/main.849e3acb.js.map"
+    "main.08261277.js.map": "/E-Commerce-Website//static/js/main.08261277.js.map"
   },
   "entrypoints": [
     "static/css/main.4d5f2cbb.css",
-    "static/js/main.849e3acb.js"
+    "static/js/main.08261277.js"
   ]
 }
