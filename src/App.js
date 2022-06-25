@@ -130,11 +130,11 @@ export default class App extends Component {
         });
         localStorage.removeItem("lastEditedProduct");
       }
-      window.location.pathname = "/E-Commerce-Website/products";
+      window.location.pathname = "/CRUD-Website/products";
     }
   };
   updateProduct = () => {
-    window.location.pathname = "/E-Commerce-Website/addProducts";
+    window.location.pathname = "/CRUD-Website/addProducts";
     localStorage.setItem(
       "lastEditedProduct",
       JSON.stringify(JSON.parse(localStorage.getItem("CurrentProduct")))
@@ -169,7 +169,7 @@ export default class App extends Component {
     // }
     // console.log(newProducts);
     localStorage.setItem("products", JSON.stringify(newProducts));
-    window.location.pathname = "/E-Commerce-Website/products/";
+    window.location.pathname = "/CRUD-Website/products/";
   };
   deleteAllProducts = (e) => {
     this.setState({
@@ -190,14 +190,14 @@ export default class App extends Component {
     // window.onload = () => {
     //   localStorage.removeItem("lastEditedProduct");
     // };
-    // localStorage.clear();
+    localStorage.clear();
     return (
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/E-Commerce-Website" element={<Home />} />
+          <Route path="/CRUD-Website/" element={<Home />} />
           <Route
-            path="/E-Commerce-Website/products"
+            path="/CRUD-Website/products"
             element={
               <Products
                 products={this.state.products}
@@ -206,7 +206,7 @@ export default class App extends Component {
             }
           />
           <Route
-            path="/E-Commerce-Website/addProducts"
+            path="/CRUD-Website/addProducts"
             element={
               <AddProducts
                 changeState={this.changeState}
@@ -221,7 +221,7 @@ export default class App extends Component {
             }
           />
           <Route
-            path="/E-Commerce-Website/products/:id"
+            path="/CRUD-Website/products/:id"
             element={
               <Details
                 products={this.state.products}

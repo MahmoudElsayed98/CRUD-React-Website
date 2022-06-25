@@ -6,19 +6,19 @@ export default class Navbar extends Component {
     return (
       <nav className="text-center d-flex justify-content-center">
         <NavLink
-          to="/E-Commerce-Website/"
+          to="/CRUD-Website/"
           className="p-3 d-block text-decoration-none"
         >
           Home
         </NavLink>
         <NavLink
-          to="/E-Commerce-Website/products"
+          to="/CRUD-Website/products"
           className="p-3 d-block text-decoration-none"
         >
           Products
         </NavLink>
         <NavLink
-          to="/E-Commerce-Website/addProducts"
+          to="/CRUD-Website/addProducts"
           className="p-3 d-block text-decoration-none"
         >
           Add Products

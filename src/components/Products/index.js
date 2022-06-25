@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
 import "./index.css";
+
 export default class Products extends Component {
   componentDidMount() {
     const { products } = this.props;
@@ -22,7 +23,7 @@ export default class Products extends Component {
             : products.map((e) => {
                 return (
                   <NavLink
-                    to={"/E-Commerce-Website/products/" + e.id}
+                    to={"/CRUD-Website/products/" + e.id}
                     className="product rounded btn btn-primary text-center d-block text-decoration-none col-3 col-md-3 col-lg-2 col-xl-2 p-2 d-flex justify-content-center align-items-center"
                     key={e.id}
                   >

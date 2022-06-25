@@ -74,7 +74,7 @@ export default function Details(props) {
               <button
                 className="d-block btn btn-primary me-md-2 col-10 col-md-4 mt-md-0 mt-2 p-md-2"
                 onClick={() => {
-                  navigate("/E-Commerce-Website/products");
+                  navigate("/CRUD-Website/products");
                   // localStorage.removeItem("CurrentProduct");
                 }}
               >
